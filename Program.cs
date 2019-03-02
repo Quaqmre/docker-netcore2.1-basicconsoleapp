@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Yeni_klasör
+namespace Deneme
 {
     class Program
     {
